@@ -1,0 +1,12 @@
+c:\users\andrec\documents\visual studio 2012\Projects\Calculo Massa\Calculo Massa\bin\Debug\Calculo Massa.exe.config
+c:\users\andrec\documents\visual studio 2012\Projects\Calculo Massa\Calculo Massa\bin\Debug\Calculo Massa.exe
+c:\users\andrec\documents\visual studio 2012\Projects\Calculo Massa\Calculo Massa\bin\Debug\Calculo Massa.pdb
+c:\users\andrec\documents\visual studio 2012\Projects\Calculo Massa\Calculo Massa\obj\Debug\Calculo Massa.csprojResolveAssemblyReference.cache
+c:\users\andrec\documents\visual studio 2012\Projects\Calculo Massa\Calculo Massa\obj\Debug\Calculo Massa.csproj.GenerateResource.Cache
+c:\users\andrec\documents\visual studio 2012\Projects\Calculo Massa\Calculo Massa\obj\Debug\Calculo Massa.exe
+c:\users\andrec\documents\visual studio 2012\Projects\Calculo Massa\Calculo Massa\obj\Debug\Calculo Massa.pdb
+C:\Users\andrec\Documents\Visual Studio 2012\Projects\Calculo Massa\Calculo Massa\obj\Debug\Calculo_Massa.Form1.resources
+C:\Users\andrec\Documents\Visual Studio 2012\Projects\Calculo Massa\Calculo Massa\obj\Debug\Calculo_Massa.Properties.Resources.resources
+C:\Users\Andre\Dropbox\Visual Studio 2012\Projects\Calculo Massa\Calculo Massa\bin\Debug\Calculo Massa.exe.config
+C:\Users\Andre\Dropbox\Visual Studio 2012\Projects\Calculo Massa\Calculo Massa\obj\Debug\Calculo Massa.exe
+C:\Users\Andre\Dropbox\Visual Studio 2012\Projects\Calculo Massa\Calculo Massa\obj\Debug\Calculo Massa.pdb
